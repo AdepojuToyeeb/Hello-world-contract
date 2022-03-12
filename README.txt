@@ -1,3 +1,7 @@
+ Deployed contract address: 0xBe340DA8799E415B5163757148dBA313f7B8b692
+
+
+
 REMIX EXAMPLE PROJECT
 
 Remix example project is present when Remix loads for the very first time or there are no files existing in the File Explorer. 
@@ -16,3 +20,6 @@ Scripts have full access to the web3.js and ethers.js libraries.
 To run a script, right click on file name in the file explorer and click 'Run'. Remember, Solidity file must already be compiled.
 
 Output from script will appear in remix terminal.
+
+
+
